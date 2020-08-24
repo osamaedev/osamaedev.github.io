@@ -1,5 +1,3 @@
-
-
 // Select DOM items (Data object Models)
 const menuBtn = document.querySelector('.menu-btn');
 const menu = document.querySelector('.menu');
